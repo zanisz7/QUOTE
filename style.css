@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.motivation{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+    border: 5px white;
+    
+}
+.motivational-image{
+    width: 50%;
+    border: 5px solid white;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+
+
